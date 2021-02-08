@@ -1,6 +1,6 @@
 body{
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	background-image: url('imagens/fundo.png');
+	background-image: #dedec1 url('imagens/fundo.png');
+	font:16px Arial, Helvetica, sans-serif;
 }
 
 a{
@@ -8,9 +8,11 @@ a{
 	text-decoration: none;
 	font-weight: bold;
 	color: #000010;
+	padding: 5px;
 }
 
-h2 {
+h2{
+	font-size: 1.2em;
 	color: #4D371B ;
 }
 
@@ -31,8 +33,12 @@ p{
 	border-style: solid;
 }
 
-.container{
-	
+#rodape{
+	text-align: center;
+}
+
+#container{
+	width: 900px;
 }
 
 #div-link{ 
