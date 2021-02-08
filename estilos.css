@@ -1,0 +1,42 @@
+body{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-image: url('imagens/fundo.png');
+}
+
+a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000010;
+}
+
+h2 {
+	color: #4D371B ;
+}
+
+p{
+	font-size: 17px;
+	color: #38240B;
+}
+
+.div-texto{
+	padding: 8px;
+	background-color: #F3E3CF;
+	width: 900px;
+}
+
+.img{
+	border-color: #D0C2B1;
+	border-width: 10px;
+	border-style: solid;
+}
+
+.container{
+	
+}
+
+#div-link{ 
+	width: 900px; 
+	background-color: #D0C2B1; 
+	padding: 8px; 
+}
